@@ -4,7 +4,7 @@ html, body {
   padding: 0;
   background: #faf8ef;
   color: #886e65;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Clear Sans", "Kawa Ameer Aldawoody", Arial, sans-serif;
   font-size: 18px; }
 
 body {
@@ -76,7 +76,7 @@ h1.title {
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
-    color: red;
+    color: blue;
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
